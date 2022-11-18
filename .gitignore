@@ -1,5 +1,4 @@
-
 .gitignore
-venv
 .idea
+venv
 __pucache__/
